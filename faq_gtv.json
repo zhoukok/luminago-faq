@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "brand": "gtv",
   "categories": [
     {
@@ -640,6 +640,66 @@
             "vi": "Có. Hãy đưa thiết bị vào chế độ ghép nối và thêm trong Cài đặt > Điều khiển từ xa và phụ kiện > Ghép nối phụ kiện. Tay cầm và bàn phím đã ghép nối sẽ dùng được trong mọi ứng dụng và trò chơi.",
             "zh": "可以。将其置于配对模式，然后在“设置 > 遥控器和配件 > 配对配件”中添加。配对后的手柄和键盘可在各类应用和游戏中使用。",
             "zh-TW": "可以。將裝置設為配對模式，然後在「設定」>「遙控器與配件」>「配對配件」中新增。配對完成的控制器和鍵盤可在各個應用程式和遊戲中使用。"
+          }
+        },
+        {
+          "q": {
+            "en": "Why does my Bluetooth speaker's audio stutter when I use the phone remote?",
+            "zh": "为什么我用手机遥控时,蓝牙音箱的声音会卡顿?",
+            "zh-TW": "為什麼我用手機遙控時,藍牙喇叭的聲音會卡頓?",
+            "ar": "لماذا يتقطع صوت مكبر صوت البلوتوث عند استخدام الريموت عبر الهاتف؟",
+            "cs": "Proč se zvuk z Bluetooth reproduktoru trhá, když používám dálkové ovládání v telefonu?",
+            "da": "Hvorfor hakker lyden fra min Bluetooth-højttaler, når jeg bruger fjernbetjeningen på telefonen?",
+            "de": "Warum stockt der Ton meines Bluetooth-Lautsprechers, wenn ich die Fernbedienung am Handy benutze?",
+            "el": "Γιατί κολλάει ο ήχος από το ηχείο Bluetooth όταν χρησιμοποιώ το τηλεχειριστήριο του κινητού;",
+            "es": "¿Por qué se entrecorta el sonido de mi altavoz Bluetooth cuando uso el mando desde el teléfono?",
+            "fi": "Miksi Bluetooth-kaiuttimen ääni pätkii, kun käytän puhelimen kaukosäädintä?",
+            "fr": "Pourquoi le son de mon enceinte Bluetooth saccade lorsque j'utilise la télécommande du téléphone ?",
+            "hi": "फ़ोन रिमोट का उपयोग करते समय मेरे ब्लूटूथ स्पीकर की आवाज़ क्यों अटकती है?",
+            "hu": "Miért akadozik a Bluetooth hangszóró hangja, amikor a telefonos távirányítót használom?",
+            "id": "Mengapa suara speaker Bluetooth saya tersendat saat menggunakan remote ponsel?",
+            "it": "Perché l'audio del mio altoparlante Bluetooth si interrompe quando uso il telecomando dal telefono?",
+            "ja": "スマホのリモコンを使うと、Bluetoothスピーカーの音が途切れるのはなぜですか?",
+            "ko": "휴대폰 리모컨을 사용할 때 블루투스 스피커 소리가 끊기는 이유는 무엇인가요?",
+            "ms": "Mengapa bunyi pembesar suara Bluetooth saya tersekat-sekat semasa menggunakan alat kawalan jauh telefon?",
+            "nl": "Waarom hapert het geluid van mijn Bluetooth-speaker als ik de afstandsbediening op de telefoon gebruik?",
+            "pl": "Dlaczego dźwięk z głośnika Bluetooth przerywa, gdy używam pilota w telefonie?",
+            "pt": "Por que o som do meu alto-falante Bluetooth falha quando uso o controle pelo celular?",
+            "ro": "De ce se întrerupe sunetul boxei Bluetooth când folosesc telecomanda de pe telefon?",
+            "ru": "Почему звук Bluetooth-колонки прерывается, когда я пользуюсь пультом на телефоне?",
+            "sv": "Varför hackar ljudet från min Bluetooth-högtalare när jag använder fjärrkontrollen i telefonen?",
+            "th": "ทำไมเสียงจากลำโพงบลูทูธถึงกระตุกเมื่อฉันใช้รีโมทจากโทรศัพท์?",
+            "tr": "Telefon kumandasını kullandığımda Bluetooth hoparlörümün sesi neden kesiliyor?",
+            "vi": "Vì sao âm thanh từ loa Bluetooth của tôi bị giật khi tôi dùng điều khiển trên điện thoại?"
+          },
+          "a": {
+            "en": "On some projectors, Wi-Fi and Bluetooth share one 2.4 GHz radio and antenna. When the 2.4 GHz Wi-Fi is busy, using the phone remote (which also uses Bluetooth) can briefly interfere with a Bluetooth speaker's playback. Fix: switch the projector's Wi-Fi to a 5 GHz network, or reduce 2.4 GHz Wi-Fi activity. The projector's built-in speaker and wired/HDMI audio are not affected.",
+            "zh": "部分投影仪的 Wi-Fi 和蓝牙共用同一个 2.4 GHz 无线电和天线。当 2.4 GHz Wi-Fi 繁忙时,使用手机遥控(同样走蓝牙)可能会短暂干扰蓝牙音箱的播放。解决方法:把投影仪的 Wi-Fi 切换到 5 GHz 网络,或减少 2.4 GHz Wi-Fi 的使用。投影仪自带扬声器以及通过 HDMI/有线连接的音频不受影响。",
+            "zh-TW": "部分投影機的 Wi-Fi 和藍牙共用同一個 2.4 GHz 無線電與天線。當 2.4 GHz Wi-Fi 繁忙時,使用手機遙控(同樣透過藍牙)可能會短暫干擾藍牙喇叭的播放。解決方法:將投影機的 Wi-Fi 切換到 5 GHz 網路,或減少 2.4 GHz Wi-Fi 的使用。投影機內建喇叭以及透過 HDMI/有線連接的音訊不受影響。",
+            "ar": "في بعض أجهزة العرض، تتشارك شبكة Wi-Fi والبلوتوث نفس راديو 2.4 غيغاهرتز والهوائي. عندما تكون شبكة Wi-Fi بتردد 2.4 غيغاهرتز مشغولة، فإن استخدام الريموت عبر الهاتف (الذي يعمل أيضًا عبر البلوتوث) قد يتداخل لفترة وجيزة مع تشغيل مكبر صوت البلوتوث. الحل: بدّل شبكة Wi-Fi الخاصة بجهاز العرض إلى شبكة 5 غيغاهرتز، أو قلّل نشاط Wi-Fi بتردد 2.4 غيغاهرتز. لا يتأثر مكبر الصوت المدمج في جهاز العرض ولا الصوت عبر HDMI/السلكي.",
+            "cs": "U některých projektorů sdílí Wi-Fi a Bluetooth stejné 2,4GHz rádio a anténu. Když je 2,4GHz Wi-Fi vytížená, používání ovladače v telefonu (který také využívá Bluetooth) může krátce rušit přehrávání Bluetooth reproduktoru. Řešení: přepněte Wi-Fi projektoru na síť 5 GHz nebo omezte provoz na 2,4GHz Wi-Fi. Vestavěný reproduktor projektoru a zvuk přes HDMI/kabel nejsou ovlivněny.",
+            "da": "På nogle projektorer deler Wi-Fi og Bluetooth samme 2,4 GHz-radio og antenne. Når 2,4 GHz Wi-Fi er optaget, kan brug af telefon-fjernbetjeningen (der også bruger Bluetooth) kortvarigt forstyrre afspilningen på en Bluetooth-højttaler. Løsning: skift projektorens Wi-Fi til et 5 GHz-netværk, eller reducér 2,4 GHz Wi-Fi-aktiviteten. Projektorens indbyggede højttaler og lyd via HDMI/kabel påvirkes ikke.",
+            "de": "Bei manchen Projektoren teilen sich WLAN und Bluetooth denselben 2,4-GHz-Funk und dieselbe Antenne. Wenn das 2,4-GHz-WLAN ausgelastet ist, kann die Handy-Fernbedienung (die ebenfalls Bluetooth nutzt) die Wiedergabe eines Bluetooth-Lautsprechers kurz stören. Lösung: Stellen Sie das WLAN des Projektors auf ein 5-GHz-Netz um oder reduzieren Sie die 2,4-GHz-WLAN-Aktivität. Der eingebaute Lautsprecher des Projektors sowie Audio über HDMI/Kabel sind nicht betroffen.",
+            "el": "Σε ορισμένους προβολείς, το Wi-Fi και το Bluetooth μοιράζονται το ίδιο ραδιόφωνο και κεραία 2,4 GHz. Όταν το Wi-Fi 2,4 GHz είναι απασχολημένο, η χρήση του τηλεχειριστηρίου του κινητού (που χρησιμοποιεί επίσης Bluetooth) μπορεί να παρεμβάλλει στιγμιαία στην αναπαραγωγή του ηχείου Bluetooth. Λύση: αλλάξτε το Wi-Fi του προβολέα σε δίκτυο 5 GHz ή μειώστε τη δραστηριότητα του Wi-Fi 2,4 GHz. Το ενσωματωμένο ηχείο του προβολέα και ο ήχος μέσω HDMI/καλωδίου δεν επηρεάζονται.",
+            "es": "En algunos proyectores, el Wi-Fi y el Bluetooth comparten la misma radio y antena de 2,4 GHz. Cuando el Wi-Fi de 2,4 GHz está saturado, usar el mando del teléfono (que también usa Bluetooth) puede interferir brevemente con la reproducción de un altavoz Bluetooth. Solución: cambia el Wi-Fi del proyector a una red de 5 GHz o reduce la actividad del Wi-Fi de 2,4 GHz. El altavoz integrado del proyector y el audio por HDMI/cable no se ven afectados.",
+            "fi": "Joissakin projektoreissa Wi-Fi ja Bluetooth jakavat saman 2,4 GHz:n radion ja antennin. Kun 2,4 GHz:n Wi-Fi on kuormitettu, puhelimen kaukosäätimen käyttö (joka myös käyttää Bluetoothia) voi hetkellisesti häiritä Bluetooth-kaiuttimen toistoa. Ratkaisu: vaihda projektorin Wi-Fi 5 GHz:n verkkoon tai vähennä 2,4 GHz:n Wi-Fi-liikennettä. Projektorin sisäänrakennettu kaiutin ja HDMI-/johtoääni eivät häiriinny.",
+            "fr": "Sur certains projecteurs, le Wi-Fi et le Bluetooth partagent la même radio et la même antenne 2,4 GHz. Lorsque le Wi-Fi 2,4 GHz est chargé, l'utilisation de la télécommande du téléphone (qui utilise aussi le Bluetooth) peut brièvement perturber la lecture d'une enceinte Bluetooth. Solution : basculez le Wi-Fi du projecteur sur un réseau 5 GHz, ou réduisez l'activité du Wi-Fi 2,4 GHz. Le haut-parleur intégré du projecteur et l'audio via HDMI/câble ne sont pas affectés.",
+            "hi": "कुछ प्रोजेक्टर में Wi-Fi और ब्लूटूथ एक ही 2.4 GHz रेडियो और एंटीना साझा करते हैं। जब 2.4 GHz Wi-Fi व्यस्त होता है, तो फ़ोन रिमोट (जो ब्लूटूथ का भी उपयोग करता है) का उपयोग ब्लूटूथ स्पीकर की प्लेबैक में थोड़ी देर के लिए बाधा डाल सकता है। समाधान: प्रोजेक्टर के Wi-Fi को 5 GHz नेटवर्क पर स्विच करें, या 2.4 GHz Wi-Fi गतिविधि कम करें। प्रोजेक्टर का बिल्ट-इन स्पीकर और HDMI/वायर्ड ऑडियो प्रभावित नहीं होते।",
+            "hu": "Egyes projektoroknál a Wi-Fi és a Bluetooth ugyanazt a 2,4 GHz-es rádiót és antennát használja. Ha a 2,4 GHz-es Wi-Fi le van terhelve, a telefonos távirányító használata (amely szintén Bluetooth-t használ) rövid időre megzavarhatja a Bluetooth hangszóró lejátszását. Megoldás: állítsa át a projektor Wi-Fi-jét 5 GHz-es hálózatra, vagy csökkentse a 2,4 GHz-es Wi-Fi forgalmát. A projektor beépített hangszóróját és a HDMI-/vezetékes hangot ez nem érinti.",
+            "id": "Pada beberapa proyektor, Wi-Fi dan Bluetooth berbagi radio dan antena 2,4 GHz yang sama. Saat Wi-Fi 2,4 GHz sibuk, menggunakan remote ponsel (yang juga memakai Bluetooth) dapat sesaat mengganggu pemutaran speaker Bluetooth. Solusi: alihkan Wi-Fi proyektor ke jaringan 5 GHz, atau kurangi aktivitas Wi-Fi 2,4 GHz. Speaker bawaan proyektor dan audio melalui HDMI/kabel tidak terpengaruh.",
+            "it": "In alcuni proiettori, il Wi-Fi e il Bluetooth condividono la stessa radio e antenna a 2,4 GHz. Quando il Wi-Fi a 2,4 GHz è impegnato, l'uso del telecomando del telefono (che usa anch'esso il Bluetooth) può interferire brevemente con la riproduzione di un altoparlante Bluetooth. Soluzione: passa il Wi-Fi del proiettore a una rete a 5 GHz, oppure riduci l'attività del Wi-Fi a 2,4 GHz. L'altoparlante integrato del proiettore e l'audio via HDMI/cavo non sono interessati.",
+            "ja": "一部のプロジェクターでは、Wi-Fiとブルートゥースが同じ2.4GHzの無線とアンテナを共有しています。2.4GHz Wi-Fiが混雑していると、スマホのリモコン(こちらもBluetoothを使用)を使った際に、Bluetoothスピーカーの再生を一時的に妨げることがあります。対処法:プロジェクターのWi-Fiを5GHzのネットワークに切り替えるか、2.4GHz Wi-Fiの利用を減らしてください。プロジェクター本体のスピーカーやHDMI/有線の音声には影響しません。",
+            "ko": "일부 프로젝터는 Wi-Fi와 블루투스가 같은 2.4GHz 무선과 안테나를 공유합니다. 2.4GHz Wi-Fi가 혼잡할 때 휴대폰 리모컨(블루투스도 사용)을 쓰면 블루투스 스피커 재생을 잠깐 방해할 수 있습니다. 해결 방법: 프로젝터의 Wi-Fi를 5GHz 네트워크로 전환하거나 2.4GHz Wi-Fi 사용을 줄이세요. 프로젝터 내장 스피커와 HDMI/유선 오디오는 영향을 받지 않습니다.",
+            "ms": "Pada sesetengah projektor, Wi-Fi dan Bluetooth berkongsi radio dan antena 2.4 GHz yang sama. Apabila Wi-Fi 2.4 GHz sibuk, menggunakan alat kawalan jauh telefon (yang turut menggunakan Bluetooth) boleh mengganggu main balik pembesar suara Bluetooth seketika. Penyelesaian: tukar Wi-Fi projektor ke rangkaian 5 GHz, atau kurangkan aktiviti Wi-Fi 2.4 GHz. Pembesar suara terbina dalam projektor dan audio melalui HDMI/berwayar tidak terjejas.",
+            "nl": "Bij sommige projectoren delen wifi en Bluetooth dezelfde 2,4GHz-radio en antenne. Als de 2,4GHz-wifi druk is, kan het gebruik van de telefoonafstandsbediening (die ook Bluetooth gebruikt) het afspelen van een Bluetooth-speaker kort verstoren. Oplossing: schakel de wifi van de projector over naar een 5GHz-netwerk, of verminder de 2,4GHz-wifi-activiteit. De ingebouwde speaker van de projector en audio via HDMI/kabel worden niet beïnvloed.",
+            "pl": "W niektórych projektorach Wi-Fi i Bluetooth współdzielą to samo radio i antenę 2,4 GHz. Gdy sieć Wi-Fi 2,4 GHz jest obciążona, używanie pilota w telefonie (który również korzysta z Bluetooth) może na chwilę zakłócić odtwarzanie z głośnika Bluetooth. Rozwiązanie: przełącz Wi-Fi projektora na sieć 5 GHz lub ogranicz ruch w sieci Wi-Fi 2,4 GHz. Wbudowany głośnik projektora oraz dźwięk przez HDMI/kabel nie są zakłócane.",
+            "pt": "Em alguns projetores, o Wi-Fi e o Bluetooth compartilham o mesmo rádio e antena de 2,4 GHz. Quando o Wi-Fi de 2,4 GHz está ocupado, usar o controle pelo celular (que também usa Bluetooth) pode interferir brevemente na reprodução de um alto-falante Bluetooth. Solução: mude o Wi-Fi do projetor para uma rede de 5 GHz, ou reduza a atividade do Wi-Fi de 2,4 GHz. O alto-falante interno do projetor e o áudio por HDMI/cabo não são afetados.",
+            "ro": "La unele proiectoare, Wi-Fi și Bluetooth folosesc aceeași radio și antenă de 2,4 GHz. Când rețeaua Wi-Fi de 2,4 GHz este ocupată, folosirea telecomenzii de pe telefon (care folosește și ea Bluetooth) poate perturba pentru scurt timp redarea unei boxe Bluetooth. Soluție: comută Wi-Fi-ul proiectorului pe o rețea de 5 GHz sau redu activitatea Wi-Fi pe 2,4 GHz. Difuzorul încorporat al proiectorului și sunetul prin HDMI/cablu nu sunt afectate.",
+            "ru": "В некоторых проекторах Wi-Fi и Bluetooth используют одно и то же радио и антенну 2,4 ГГц. Когда сеть Wi-Fi 2,4 ГГц загружена, использование пульта на телефоне (который тоже работает по Bluetooth) может кратковременно мешать воспроизведению на Bluetooth-колонке. Решение: переключите Wi-Fi проектора на сеть 5 ГГц или снизьте нагрузку на Wi-Fi 2,4 ГГц. Встроенный динамик проектора и звук по HDMI/кабелю не затрагиваются.",
+            "sv": "På vissa projektorer delar Wi-Fi och Bluetooth samma 2,4 GHz-radio och antenn. När 2,4 GHz-Wi-Fi är upptaget kan användning av telefonens fjärrkontroll (som också använder Bluetooth) tillfälligt störa uppspelningen i en Bluetooth-högtalare. Lösning: byt projektorns Wi-Fi till ett 5 GHz-nätverk, eller minska aktiviteten på 2,4 GHz-Wi-Fi. Projektorns inbyggda högtalare och ljud via HDMI/kabel påverkas inte.",
+            "th": "ในโปรเจ็กเตอร์บางรุ่น Wi-Fi และบลูทูธใช้คลื่นวิทยุและเสาอากาศ 2.4 GHz ร่วมกัน เมื่อ Wi-Fi 2.4 GHz ทำงานหนัก การใช้รีโมทจากโทรศัพท์ (ซึ่งใช้บลูทูธเช่นกัน) อาจรบกวนการเล่นเสียงของลำโพงบลูทูธชั่วขณะ วิธีแก้: เปลี่ยน Wi-Fi ของโปรเจ็กเตอร์ไปใช้เครือข่าย 5 GHz หรือลดการใช้งาน Wi-Fi 2.4 GHz ลำโพงในตัวของโปรเจ็กเตอร์และเสียงผ่าน HDMI/สายไม่ได้รับผลกระทบ",
+            "tr": "Bazı projektörlerde Wi-Fi ve Bluetooth aynı 2,4 GHz radyoyu ve anteni paylaşır. 2,4 GHz Wi-Fi yoğun olduğunda, telefon kumandasını (bu da Bluetooth kullanır) kullanmak Bluetooth hoparlörün çalmasını kısa süreliğine bozabilir. Çözüm: projektörün Wi-Fi'sini 5 GHz ağa geçirin veya 2,4 GHz Wi-Fi etkinliğini azaltın. Projektörün dahili hoparlörü ve HDMI/kablolu ses etkilenmez.",
+            "vi": "Trên một số máy chiếu, Wi-Fi và Bluetooth dùng chung một sóng vô tuyến và ăng-ten 2,4 GHz. Khi Wi-Fi 2,4 GHz bận, việc dùng điều khiển trên điện thoại (cũng dùng Bluetooth) có thể gây nhiễu nhất thời cho việc phát của loa Bluetooth. Cách khắc phục: chuyển Wi-Fi của máy chiếu sang mạng 5 GHz, hoặc giảm hoạt động Wi-Fi 2,4 GHz. Loa tích hợp của máy chiếu và âm thanh qua HDMI/có dây không bị ảnh hưởng."
           }
         }
       ]
