@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "categories": [
     {
       "id": "hdmi",
@@ -2609,6 +2609,66 @@
             "vi": "Máy chiếu có chức năng hiệu chuẩn điểm 0. Khi keystone tự động bị lệch, cần hiệu chuẩn thủ công về trạng thái nằm ngang.\nChức năng hiệu chuẩn điểm 0 mặc định bị ẩn. Vào Cài đặt -> Giới thiệu và tại màn hình chi tiết, nhấn nút OK 8 lần cho đến khi hiện thông báo \"Đã bật chế độ nhà phát triển\".\nQuay lại Cài đặt -> Chiếu, chọn \"Chỉnh góc ban đầu\", làm theo hướng dẫn trên màn hình để đặt máy chiếu cân bằng, nhấn \"Bắt đầu\" và chờ hoàn tất. Thao tác này sẽ thiết lập trạng thái ngang và hiển thị hình chữ nhật chuẩn. Sau đó, khi thay đổi góc, keystone tự động sẽ không còn hiện tượng trên rộng-dưới hẹp.",
             "zh": "投影仪有零度校准功能，当自动梯形不正时，需要手动校准水平状态。\n零度校准功能默认隐藏，进入 Settings-About，在 about 详情界面点按 OK 键 8 次，直到提示开发者模式已打开。\n返回 Settings-Lens/Projector Settings，选择 Keystone correction → Reset Keystone correction data，按照页面提示把机器放水平，按 start 按键，等待动作完成完成零度校准，此状态作为水平状态，显示为正矩形，再切换角度，自动梯形将不会出现上宽下窄现象。",
             "zh-TW": "投影機有零度校準功能，當自動梯形不正時，需要手動校準水平狀態。\n零度校準功能預設隱藏，進入 Settings-About，在 about 詳情界面點按 OK 鍵 8 次，直到提示開發者模式已打開。\n返回 Settings-Lens/Projector Settings，選擇 Keystone correction → Reset Keystone correction data，按照頁面提示把機器放水平，按 start 按鍵，等待動作完成完成零度校準，此狀態作為水平狀態，顯示為正矩形，再切換角度，自動梯形將不會出現上寬下窄現象。"
+          }
+        },
+        {
+          "q": {
+            "en": "Can I fix a slanted or trapezoid image from my phone (four-corner keystone)?",
+            "zh": "能用手机手动校正画面倾斜/梯形吗(四角梯形校正)?",
+            "zh-TW": "能用手機手動校正畫面傾斜/梯形嗎(四角梯形校正)?",
+            "ar": "هل يمكنني تصحيح صورة مائلة أو شبه منحرفة من هاتفي (تصحيح الزوايا الأربع)؟",
+            "cs": "Můžu z telefonu opravit zkosený nebo lichoběžníkový obraz (korekce čtyř rohů)?",
+            "da": "Kan jeg rette et skævt eller trapezformet billede fra min telefon (fire-hjørners keystone)?",
+            "de": "Kann ich ein schiefes oder trapezförmiges Bild per Handy korrigieren (Vier-Ecken-Trapezkorrektur)?",
+            "el": "Μπορώ να διορθώσω μια λοξή ή τραπεζοειδή εικόνα από το τηλέφωνο (διόρθωση τεσσάρων γωνιών);",
+            "es": "¿Puedo corregir una imagen inclinada o trapezoidal desde el teléfono (corrección de cuatro esquinas)?",
+            "fi": "Voinko korjata vinon tai puolisuunnikkaan muotoisen kuvan puhelimesta (neljän kulman korjaus)?",
+            "fr": "Puis-je corriger une image inclinée ou trapézoïdale depuis mon téléphone (correction quatre coins) ?",
+            "hi": "क्या मैं फ़ोन से तिरछी या समलंब छवि ठीक कर सकता/सकती हूँ (चार-कोना कीस्टोन)?",
+            "hu": "Kijavíthatom a ferde vagy trapéz alakú képet a telefonról (négysarkos korrekció)?",
+            "id": "Bisakah saya memperbaiki gambar miring atau trapesium dari ponsel (koreksi empat sudut)?",
+            "it": "Posso correggere un'immagine inclinata o trapezoidale dal telefono (correzione a quattro angoli)?",
+            "ja": "スマホから台形や傾いた画面を手動補正できますか(四隅補正)?",
+            "ko": "휴대폰으로 기울어지거나 사다리꼴인 화면을 보정할 수 있나요(네 모서리 보정)?",
+            "ms": "Bolehkah saya betulkan imej senget atau trapezoid dari telefon (pembetulan empat penjuru)?",
+            "nl": "Kan ik een scheef of trapeziumvormig beeld met mijn telefoon corrigeren (vier-hoeken keystone)?",
+            "pl": "Czy mogę poprawić przekrzywiony lub trapezowy obraz z telefonu (korekcja czterech rogów)?",
+            "pt": "Posso corrigir uma imagem inclinada ou trapezoidal pelo telefone (correção de quatro cantos)?",
+            "ro": "Pot corecta o imagine înclinată sau trapezoidală de pe telefon (corecție în patru colțuri)?",
+            "ru": "Можно ли исправить наклонённое или трапециевидное изображение с телефона (коррекция по четырём углам)?",
+            "sv": "Kan jag rätta en sned eller trapetsformad bild från telefonen (fyrhörnskorrigering)?",
+            "th": "แก้ภาพเอียงหรือภาพบิดเบี้ยวจากมือถือได้ไหม (ปรับสี่มุม)?",
+            "tr": "Telefondan eğik veya yamuk görüntüyü düzeltebilir miyim (dört köşe düzeltme)?",
+            "vi": "Tôi có thể chỉnh ảnh nghiêng hoặc hình thang từ điện thoại không (chỉnh bốn góc)?"
+          },
+          "a": {
+            "en": "On supported projectors (such as the 950), yes. In the remote app tap the keystone icon in the top bar to open Keystone correction, then drag the four colored corners — the projected image adjusts in real time. Adjust until the grid looks square and the circle round; the dashed frame shows the original size, and Reset undoes everything. It works in every mounting mode (front, rear, ceiling).",
+            "zh": "支持的投影仪(如 950)可以。在遥控 App 顶栏点梯形图标打开「梯形校正」,拖动四个彩色角,投影画面实时调整。调到网格方正、圆不变形即可;虚线框是原始尺寸,「复位」可还原。正投/背投/吊装各模式都适用。",
+            "zh-TW": "支援的投影機(如 950)可以。在遙控 App 頂欄點梯形圖示開啟「梯形校正」,拖動四個彩色角,投影畫面即時調整。調到網格方正、圓不變形即可;虛線框是原始尺寸,「復位」可還原。正投/背投/吊裝各模式皆適用。",
+            "ar": "نعم على أجهزة العرض المدعومة (مثل 950). في تطبيق التحكم اضغط رمز شبه المنحرف في الشريط العلوي لفتح «تصحيح شبه المنحرف»، ثم اسحب الزوايا الملوّنة الأربع فتتغيّر الصورة فوراً. اضبط حتى تبدو الشبكة مربعة والدائرة مستديرة؛ الإطار المتقطع يوضح الحجم الأصلي، و«إعادة تعيين» يلغي كل شيء. يعمل في كل أوضاع التركيب (أمامي، خلفي، سقفي).",
+            "cs": "Na podporovaných projektorech (např. 950) ano. V aplikaci klepněte na ikonu lichoběžníku v horní liště, otevřete Korekci lichoběžníku a táhněte za čtyři barevné rohy – obraz se mění v reálném čase. Upravte, dokud mřížka nevypadá čtvercově a kruh kulatě; přerušovaný rámeček ukazuje původní velikost, Obnovit vše vrátí. Funguje ve všech režimech montáže (přední, zadní, strop).",
+            "da": "På understøttede projektorer (som 950) ja. Tryk på keystone-ikonet i topbjælken for at åbne Keystone-korrektion, og træk de fire farvede hjørner – billedet ændres i realtid. Juster, til gitteret er kvadratisk og cirklen rund; den stiplede ramme viser den oprindelige størrelse, og Nulstil fortryder alt. Det virker i alle monteringstilstande (front, bag, loft).",
+            "de": "Auf unterstützten Projektoren (z. B. 950) ja. Tippe in der App oben auf das Trapez-Symbol, um die Trapezkorrektur zu öffnen, und ziehe an den vier farbigen Ecken – das Bild ändert sich in Echtzeit. Passe an, bis das Raster quadratisch und der Kreis rund ist; der gestrichelte Rahmen zeigt die Originalgröße, Zurücksetzen macht alles rückgängig. Funktioniert in allen Montagearten (Front, Rück, Decke).",
+            "el": "Σε υποστηριζόμενους προβολείς (όπως ο 950) ναι. Στην εφαρμογή πατήστε το εικονίδιο τραπεζίου στην πάνω μπάρα για τη Διόρθωση, και σύρετε τις τέσσερις χρωματιστές γωνίες — η εικόνα αλλάζει άμεσα. Ρυθμίστε ώσπου το πλέγμα να φαίνεται τετράγωνο και ο κύκλος στρογγυλός· το διακεκομμένο πλαίσιο δείχνει το αρχικό μέγεθος και η Επαναφορά αναιρεί τα πάντα. Λειτουργεί σε όλες τις τοποθετήσεις (εμπρός, πίσω, οροφή).",
+            "es": "En proyectores compatibles (como el 950), sí. En la app toca el icono de corrección en la barra superior para abrir Corrección trapezoidal y arrastra las cuatro esquinas de color: la imagen se ajusta en tiempo real. Ajusta hasta que la cuadrícula se vea cuadrada y el círculo redondo; el marco discontinuo muestra el tamaño original y Restablecer deshace todo. Funciona en todos los modos de montaje (frontal, posterior, techo).",
+            "fi": "Tuetuilla projektoreilla (kuten 950) kyllä. Avaa sovelluksen yläpalkin keystone-kuvakkeesta Keystone-korjaus ja vedä neljää värillistä kulmaa – kuva muuttuu reaaliajassa. Säädä, kunnes ruudukko on neliömäinen ja ympyrä pyöreä; katkoviivakehys näyttää alkuperäisen koon ja Nollaa palauttaa kaiken. Toimii kaikissa asennustavoissa (etu, taka, katto).",
+            "fr": "Sur les projecteurs compatibles (comme le 950), oui. Dans l'appli, touchez l'icône de correction en haut pour ouvrir la Correction trapézoïdale, puis faites glisser les quatre coins colorés — l'image s'ajuste en temps réel. Ajustez jusqu'à ce que la grille soit carrée et le cercle rond ; le cadre en pointillés indique la taille d'origine et Réinitialiser annule tout. Fonctionne dans tous les modes de montage (avant, arrière, plafond).",
+            "hi": "समर्थित प्रोजेक्टर (जैसे 950) पर हाँ। ऐप में ऊपर कीस्टोन आइकन दबाकर «कीस्टोन सुधार» खोलें, फिर चार रंगीन कोनों को खींचें — छवि तुरंत समायोजित होती है। ग्रिड वर्गाकार और वृत्त गोल दिखने तक समायोजित करें; बिंदुदार फ़्रेम मूल आकार दिखाता है और रीसेट सब पूर्ववत करता है। सभी माउंटिंग मोड (सामने, पीछे, छत) में काम करता है।",
+            "hu": "Támogatott projektorokon (pl. 950) igen. Az appban koppintson a felső sáv trapéz ikonjára a Trapézkorrekció megnyitásához, majd húzza a négy színes sarkot – a kép valós időben változik. Állítsa be, míg a rács négyzetes és a kör kerek; a szaggatott keret az eredeti méretet mutatja, az Alaphelyzet mindent visszavon. Minden felszerelési módban működik (elülső, hátsó, mennyezeti).",
+            "id": "Pada proyektor yang didukung (seperti 950), bisa. Di aplikasi ketuk ikon keystone di bilah atas untuk membuka Koreksi keystone, lalu seret empat sudut berwarna — gambar berubah secara langsung. Sesuaikan hingga kisi tampak persegi dan lingkaran bulat; bingkai putus-putus menunjukkan ukuran asli, dan Atur ulang membatalkan semuanya. Bekerja di semua mode pemasangan (depan, belakang, plafon).",
+            "it": "Sui proiettori supportati (come l'950), sì. Nell'app tocca l'icona della correzione nella barra in alto per aprire la Correzione trapezoidale, poi trascina i quattro angoli colorati: l'immagine si regola in tempo reale. Regola finché la griglia appare quadrata e il cerchio rotondo; la cornice tratteggiata mostra la dimensione originale e Reimposta annulla tutto. Funziona in ogni modalità di montaggio (frontale, posteriore, soffitto).",
+            "ja": "対応する投影機(950 など)なら可能です。アプリ上部の台形アイコンで「台形補正」を開き、色付きの四隅をドラッグすると画面がリアルタイムで変化します。グリッドが正方形、円が真円に見えるまで調整してください。破線の枠は元のサイズ、「リセット」で元に戻せます。正面・背面・天吊りのどの設置モードでも動作します。",
+            "ko": "지원 프로젝터(950 등)에서는 가능합니다. 앱 상단의 키스톤 아이콘을 눌러 「키스톤 보정」을 열고 네 개의 색 모서리를 드래그하면 화면이 실시간으로 조정됩니다. 격자가 정사각형, 원이 둥글게 보일 때까지 맞추세요. 점선 프레임은 원래 크기를 나타내고 재설정으로 되돌립니다. 모든 설치 모드(정면·후면·천장)에서 작동합니다.",
+            "ms": "Pada projektor yang disokong (seperti 950), boleh. Dalam apl ketik ikon keystone pada bar atas untuk buka Pembetulan keystone, kemudian seret empat penjuru berwarna — imej berubah secara langsung. Laraskan sehingga grid kelihatan segi empat sama dan bulatan bulat; bingkai putus-putus menunjukkan saiz asal, dan Tetap semula membatalkan semua. Berfungsi dalam semua mod pemasangan (depan, belakang, siling).",
+            "nl": "Op ondersteunde projectoren (zoals de 950) wel. Tik in de app op het keystone-pictogram bovenaan om Trapeziumcorrectie te openen en sleep de vier gekleurde hoeken — het beeld past zich direct aan. Stel bij tot het raster vierkant en de cirkel rond is; het stippelkader toont de oorspronkelijke grootte en Resetten maakt alles ongedaan. Werkt in elke montagestand (voor, achter, plafond).",
+            "pl": "Na obsługiwanych projektorach (np. 950) tak. W aplikacji dotknij ikony trapezu na górnym pasku, aby otworzyć Korekcję trapezu, i przeciągaj cztery kolorowe rogi — obraz zmienia się na bieżąco. Reguluj, aż siatka będzie kwadratowa, a okrąg okrągły; przerywana ramka pokazuje oryginalny rozmiar, a Resetuj cofa wszystko. Działa w każdym trybie montażu (przód, tył, sufit).",
+            "pt": "Em projetores compatíveis (como o 950), sim. No app toque no ícone de correção na barra superior para abrir a Correção trapezoidal e arraste os quatro cantos coloridos — a imagem se ajusta em tempo real. Ajuste até a grade ficar quadrada e o círculo redondo; a moldura tracejada mostra o tamanho original e Redefinir desfaz tudo. Funciona em todos os modos de montagem (frontal, traseiro, teto).",
+            "ro": "Pe proiectoarele compatibile (precum 950), da. În aplicație atinge pictograma de corecție din bara de sus pentru a deschide Corecția trapezoidală și trage cele patru colțuri colorate — imaginea se ajustează în timp real. Reglează până când grila pare pătrată și cercul rotund; cadrul punctat arată dimensiunea originală, iar Resetează anulează tot. Funcționează în orice mod de montare (față, spate, tavan).",
+            "ru": "На поддерживаемых проекторах (например, 950) — да. В приложении нажмите значок коррекции на верхней панели, чтобы открыть «Коррекцию трапеции», и перетаскивайте четыре цветных угла — изображение меняется в реальном времени. Настройте так, чтобы сетка стала квадратной, а круг круглым; пунктирная рамка показывает исходный размер, а «Сброс» отменяет всё. Работает во всех режимах установки (фронт, тыл, потолок).",
+            "sv": "På kompatibla projektorer (som 950) ja. Tryck på keystone-ikonen i appens övre fält för att öppna Keystone-korrigering och dra i de fyra färgade hörnen – bilden justeras i realtid. Justera tills rutnätet ser fyrkantigt ut och cirkeln rund; den streckade ramen visar originalstorleken och Återställ ångrar allt. Fungerar i alla monteringslägen (fram, bak, tak).",
+            "th": "บนโปรเจ็กเตอร์ที่รองรับ (เช่น 950) ได้ ในแอปแตะไอคอนปรับภาพบิดเบี้ยวบนแถบด้านบนเพื่อเปิด «การแก้ภาพบิดเบี้ยว» แล้วลากสี่มุมสี ภาพจะปรับแบบเรียลไทม์ ปรับจนตารางดูเป็นสี่เหลี่ยมและวงกลมกลม กรอบเส้นประแสดงขนาดเดิม และรีเซ็ตเพื่อยกเลิกทั้งหมด ใช้ได้ทุกโหมดการติดตั้ง (หน้า หลัง เพดาน)",
+            "tr": "Desteklenen projektörlerde (950 gibi) evet. Uygulamada üst çubuktaki yamukluk simgesine dokunup Yamukluk düzeltmeyi açın, dört renkli köşeyi sürükleyin — görüntü gerçek zamanlı değişir. Izgara kare, daire yuvarlak görünene kadar ayarlayın; kesikli çerçeve orijinal boyutu gösterir, Sıfırla her şeyi geri alır. Tüm kurulum modlarında (ön, arka, tavan) çalışır.",
+            "vi": "Trên các máy chiếu được hỗ trợ (như 950), có. Trong ứng dụng chạm biểu tượng chỉnh hình thang ở thanh trên để mở Chỉnh hình thang, rồi kéo bốn góc màu — hình chiếu điều chỉnh theo thời gian thực. Chỉnh đến khi lưới trông vuông và vòng tròn tròn; khung nét đứt hiển thị kích thước gốc, và Đặt lại hoàn tác mọi thứ. Hoạt động ở mọi kiểu lắp (trước, sau, trần)."
           }
         }
       ]
