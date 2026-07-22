@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "brand": "gtv",
   "categories": [
     {
@@ -546,6 +546,66 @@
             "th": "แอปสตรีมมิงอย่าง Netflix, Prime Video และ Disney+ ออกแบบมาให้ควบคุมด้วยปุ่มทิศทาง (D-pad) และไม่ตอบสนองต่อตัวชี้เมาส์ ดังนั้นการแตะด้วยทัชแพดหรือแอร์เมาส์ในแอปเหล่านี้อาจไม่มีอะไรเกิดขึ้น หากต้องการควบคุมแอปเหล่านี้ ให้ใช้แท็บรีโมต: ปุ่มทิศทาง (ขึ้น/ลง/ซ้าย/ขวา) ใช้เลื่อนกรอบไฮไลต์บนหน้าจอ และปุ่ม OK ใช้เลือก ทัชแพดและแอร์เมาส์ยังใช้งานได้ตามปกติบนหน้าจอหลัก ในการตั้งค่า และในแอปที่รองรับตัวชี้",
             "tr": "Netflix, Prime Video ve Disney+ gibi yayın uygulamaları yön tuşuyla (D-pad) gezinme için tasarlanmıştır ve fare imlecine yanıt vermez; bu nedenle içlerinde dokunmatik yüzey veya hava faresi dokunuşları bir şey yapmayabilir. Bu uygulamaları kontrol etmek için Kumanda sekmesini kullanın: yön tuşları (yukarı/aşağı/sol/sağ) ekrandaki vurguyu taşır, OK düğmesi seçer. Ana ekranda, ayarlarda ve imleci destekleyen uygulamalarda dokunmatik yüzey ile hava faresi normal şekilde çalışmaya devam eder.",
             "vi": "Các ứng dụng phát trực tuyến như Netflix, Prime Video và Disney+ được thiết kế để điều hướng bằng phím định hướng (D-pad) và không phản hồi con trỏ chuột, nên chạm bằng bàn di chuột hoặc chuột bay có thể không có tác dụng bên trong chúng. Để điều khiển các ứng dụng này, hãy dùng tab Điều khiển: các phím định hướng (lên/xuống/trái/phải) di chuyển vùng nổi bật trên màn hình và nút OK để chọn. Bàn di chuột và chuột bay vẫn hoạt động bình thường ở màn hình chính, trong cài đặt và trong các ứng dụng hỗ trợ con trỏ."
+          }
+        },
+        {
+          "q": {
+            "en": "What does the Wi-Fi icon in the top bar do?",
+            "zh": "顶部栏的 Wi-Fi 图标是做什么的?",
+            "zh-TW": "頂部列的 Wi-Fi 圖示是做什麼的?",
+            "ar": "ما وظيفة أيقونة Wi-Fi في الشريط العلوي؟",
+            "cs": "K čemu slouží ikona Wi-Fi v horní liště?",
+            "da": "Hvad gør Wi-Fi-ikonet i den øverste bjælke?",
+            "de": "Wofür ist das WLAN-Symbol in der oberen Leiste?",
+            "el": "Τι κάνει το εικονίδιο Wi-Fi στην επάνω γραμμή;",
+            "es": "¿Qué hace el icono de Wi-Fi de la barra superior?",
+            "fi": "Mitä yläpalkin Wi-Fi-kuvake tekee?",
+            "fr": "À quoi sert l'icône Wi-Fi de la barre supérieure ?",
+            "hi": "ऊपर की पट्टी में Wi-Fi आइकन क्या करता है?",
+            "hu": "Mire való a felső sávban lévő Wi-Fi ikon?",
+            "id": "Apa fungsi ikon Wi-Fi di bilah atas?",
+            "it": "A cosa serve l'icona Wi-Fi nella barra in alto?",
+            "ja": "上部バーの Wi-Fi アイコンは何をしますか?",
+            "ko": "상단 바의 Wi-Fi 아이콘은 무엇을 하나요?",
+            "ms": "Apakah fungsi ikon Wi-Fi pada bar atas?",
+            "nl": "Wat doet het wifi-pictogram in de bovenbalk?",
+            "pl": "Do czego służy ikona Wi-Fi na górnym pasku?",
+            "pt": "O que faz o ícone de Wi-Fi na barra superior?",
+            "ro": "Ce face pictograma Wi-Fi din bara de sus?",
+            "ru": "Для чего значок Wi-Fi в верхней панели?",
+            "sv": "Vad gör Wi-Fi-ikonen i det övre fältet?",
+            "th": "ไอคอน Wi-Fi ที่แถบด้านบนทำอะไร?",
+            "tr": "Üst çubuktaki Wi-Fi simgesi ne işe yarar?",
+            "vi": "Biểu tượng Wi-Fi trên thanh trên cùng dùng để làm gì?"
+          },
+          "a": {
+            "en": "It switches the remote-control channel between Bluetooth (default) and Wi-Fi. Tap it to use Wi-Fi when touch or buttons feel laggy (for example when Bluetooth is busy with a speaker). Your phone and the projector must be on the same Wi-Fi network; when active the icon turns blue and shows the projector's IP. The app warns you if you're not on the same network, and switches back to Bluetooth automatically if Wi-Fi drops.",
+            "zh": "它在蓝牙(默认)和 Wi-Fi 之间切换遥控通道。当触摸或按键卡顿时(例如蓝牙正忙于连接音箱),点它切到 Wi-Fi 以降低延迟。手机和投影必须连在同一 Wi-Fi;启用后图标变蓝并显示投影的 IP。若不在同一网络会提示你,Wi-Fi 断开时会自动切回蓝牙。",
+            "zh-TW": "它在藍牙(預設)和 Wi-Fi 之間切換遙控通道。當觸控或按鍵卡頓時(例如藍牙正忙於連接喇叭),點它切到 Wi-Fi 以降低延遲。手機和投影必須連在同一 Wi-Fi;啟用後圖示變藍並顯示投影的 IP。若不在同一網路會提示你,Wi-Fi 斷開時會自動切回藍牙。",
+            "ar": "يبدّل قناة التحكم عن بُعد بين البلوتوث (الافتراضي) و Wi-Fi. اضغط عليه لاستخدام Wi-Fi عندما يكون اللمس أو الأزرار بطيئة (مثلاً عندما يكون البلوتوث مشغولاً بسماعة). يجب أن يكون الهاتف والعارض على نفس شبكة Wi-Fi؛ وعند التفعيل تتحول الأيقونة إلى الأزرق وتعرض عنوان IP للعارض. ينبهك التطبيق إذا لم تكن على نفس الشبكة، ويعود إلى البلوتوث تلقائياً إذا انقطع Wi-Fi.",
+            "cs": "Přepíná kanál dálkového ovládání mezi Bluetooth (výchozí) a Wi-Fi. Klepnutím použijete Wi-Fi, když dotyk nebo tlačítka reagují pomalu (např. když je Bluetooth zaneprázdněno reproduktorem). Telefon a projektor musí být na stejné Wi-Fi; při aktivaci ikona zmodrá a zobrazí IP projektoru. Aplikace upozorní, pokud nejste na stejné síti, a při výpadku Wi-Fi se automaticky vrátí k Bluetooth.",
+            "da": "Den skifter fjernbetjeningskanalen mellem Bluetooth (standard) og Wi-Fi. Tryk for at bruge Wi-Fi, når berøring eller knapper er trægе (fx når Bluetooth er optaget af en højttaler). Telefon og projektor skal være på samme Wi-Fi; når aktiv bliver ikonet blåt og viser projektorens IP. Appen advarer, hvis I ikke er på samme netværk, og skifter automatisk tilbage til Bluetooth, hvis Wi-Fi falder ud.",
+            "de": "Es wechselt den Fernsteuerkanal zwischen Bluetooth (Standard) und WLAN. Tippe darauf, um WLAN zu nutzen, wenn Touch oder Tasten träge sind (z. B. wenn Bluetooth mit einem Lautsprecher beschäftigt ist). Telefon und Projektor müssen im selben WLAN sein; bei Aktivierung wird das Symbol blau und zeigt die Projektor-IP. Die App warnt, wenn ihr nicht im selben Netzwerk seid, und wechselt bei WLAN-Abbruch automatisch zurück zu Bluetooth.",
+            "el": "Εναλλάσσει το κανάλι τηλεχειρισμού μεταξύ Bluetooth (προεπιλογή) και Wi-Fi. Πατήστε το για Wi-Fi όταν η αφή ή τα κουμπιά καθυστερούν (π.χ. όταν το Bluetooth είναι απασχολημένο με ηχείο). Το τηλέφωνο και ο προβολέας πρέπει να είναι στο ίδιο Wi-Fi· όταν είναι ενεργό, το εικονίδιο γίνεται μπλε και δείχνει την IP του προβολέα. Η εφαρμογή σας ειδοποιεί αν δεν είστε στο ίδιο δίκτυο και επιστρέφει αυτόματα στο Bluetooth αν πέσει το Wi-Fi.",
+            "es": "Cambia el canal del mando a distancia entre Bluetooth (predeterminado) y Wi-Fi. Tócalo para usar Wi-Fi cuando el táctil o los botones vayan lentos (por ejemplo, cuando el Bluetooth está ocupado con un altavoz). El teléfono y el proyector deben estar en la misma red Wi-Fi; al activarse, el icono se vuelve azul y muestra la IP del proyector. La app avisa si no estás en la misma red y vuelve a Bluetooth automáticamente si el Wi-Fi se cae.",
+            "fi": "Se vaihtaa kaukosäätökanavan Bluetoothin (oletus) ja Wi-Fin välillä. Napauta käyttääksesi Wi-Fiä, kun kosketus tai painikkeet takkuavat (esimerkiksi kun Bluetooth on varattu kaiuttimelle). Puhelimen ja projektorin on oltava samassa Wi-Fi-verkossa; aktiivisena kuvake muuttuu siniseksi ja näyttää projektorin IP:n. Sovellus varoittaa, jos ette ole samassa verkossa, ja palaa automaattisesti Bluetoothiin, jos Wi-Fi katkeaa.",
+            "fr": "Elle bascule le canal de télécommande entre Bluetooth (par défaut) et Wi-Fi. Touchez-la pour utiliser le Wi-Fi quand le tactile ou les boutons sont lents (par exemple quand le Bluetooth est occupé par une enceinte). Le téléphone et le projecteur doivent être sur le même Wi-Fi ; une fois actif, l'icône devient bleue et affiche l'IP du projecteur. L'application vous avertit si vous n'êtes pas sur le même réseau et revient au Bluetooth automatiquement si le Wi-Fi tombe.",
+            "hi": "यह रिमोट-कंट्रोल चैनल को ब्लूटूथ (डिफ़ॉल्ट) और Wi-Fi के बीच बदलता है. जब टच या बटन धीमे लगें (जैसे ब्लूटूथ किसी स्पीकर में व्यस्त हो) तो Wi-Fi के लिए इसे टैप करें. फ़ोन और प्रोजेक्टर एक ही Wi-Fi पर होने चाहिए; चालू होने पर आइकन नीला हो जाता है और प्रोजेक्टर का IP दिखाता है. अगर आप एक ही नेटवर्क पर नहीं हैं तो ऐप चेतावनी देता है, और Wi-Fi टूटने पर अपने-आप ब्लूटूथ पर लौट आता है.",
+            "hu": "A távirányító csatornáját váltja Bluetooth (alapértelmezett) és Wi-Fi között. Koppints rá a Wi-Fi használatához, ha az érintés vagy a gombok akadoznak (például ha a Bluetooth egy hangszóróval van elfoglalva). A telefonnak és a projektornak ugyanazon a Wi-Fin kell lennie; aktív állapotban az ikon kékké válik és mutatja a projektor IP-jét. Az alkalmazás figyelmeztet, ha nem ugyanazon a hálózaton vagytok, és Wi-Fi-kimaradáskor automatikusan visszavált Bluetoothra.",
+            "id": "Ini mengalihkan kanal kendali jarak jauh antara Bluetooth (default) dan Wi-Fi. Ketuk untuk memakai Wi-Fi saat sentuhan atau tombol terasa lambat (misalnya saat Bluetooth sibuk dengan speaker). Ponsel dan proyektor harus di Wi-Fi yang sama; saat aktif, ikon menjadi biru dan menampilkan IP proyektor. Aplikasi memperingatkan jika tidak di jaringan yang sama, dan kembali ke Bluetooth otomatis jika Wi-Fi terputus.",
+            "it": "Cambia il canale del telecomando tra Bluetooth (predefinito) e Wi-Fi. Toccala per usare il Wi-Fi quando il tocco o i tasti sono lenti (ad esempio quando il Bluetooth è occupato con un altoparlante). Telefono e proiettore devono essere sulla stessa rete Wi-Fi; quando è attivo, l'icona diventa blu e mostra l'IP del proiettore. L'app avvisa se non sei sulla stessa rete e torna al Bluetooth automaticamente se il Wi-Fi cade.",
+            "ja": "リモコンの通信経路を Bluetooth(既定)と Wi-Fi で切り替えます。タッチやボタンが重いとき(例:Bluetooth がスピーカーで混雑しているとき)にタップして Wi-Fi を使います。スマホとプロジェクターは同じ Wi-Fi に接続してください。オンにするとアイコンが青くなりプロジェクターの IP を表示します。同じネットワークにいない場合はアプリが知らせ、Wi-Fi が切れると自動で Bluetooth に戻ります。",
+            "ko": "리모컨 채널을 블루투스(기본)와 Wi-Fi 사이에서 전환합니다. 터치나 버튼이 느릴 때(예: 블루투스가 스피커로 바쁠 때) 눌러 Wi-Fi를 사용하세요. 휴대폰과 프로젝터가 같은 Wi-Fi에 있어야 합니다. 켜지면 아이콘이 파란색으로 바뀌고 프로젝터 IP를 표시합니다. 같은 네트워크가 아니면 앱이 알려주고, Wi-Fi가 끊기면 자동으로 블루투스로 돌아갑니다.",
+            "ms": "Ia menukar saluran kawalan jauh antara Bluetooth (lalai) dan Wi-Fi. Ketik untuk guna Wi-Fi apabila sentuhan atau butang terasa lembap (contohnya apabila Bluetooth sibuk dengan pembesar suara). Telefon dan projektor mesti pada Wi-Fi yang sama; apabila aktif, ikon bertukar biru dan memaparkan IP projektor. Apl memberi amaran jika anda tiada pada rangkaian sama, dan kembali ke Bluetooth secara automatik jika Wi-Fi terputus.",
+            "nl": "Het wisselt het bedieningskanaal tussen Bluetooth (standaard) en wifi. Tik erop om wifi te gebruiken als aanraken of knoppen traag zijn (bijvoorbeeld als Bluetooth bezig is met een speaker). Telefoon en projector moeten op hetzelfde wifi zitten; als het actief is wordt het pictogram blauw en toont het het IP van de projector. De app waarschuwt als je niet op hetzelfde netwerk zit en schakelt automatisch terug naar Bluetooth als wifi wegvalt.",
+            "pl": "Przełącza kanał pilota między Bluetooth (domyślnie) a Wi-Fi. Dotknij, aby użyć Wi-Fi, gdy dotyk lub przyciski działają z opóźnieniem (np. gdy Bluetooth jest zajęty głośnikiem). Telefon i projektor muszą być w tej samej sieci Wi-Fi; po włączeniu ikona robi się niebieska i pokazuje IP projektora. Aplikacja ostrzega, gdy nie jesteś w tej samej sieci, i automatycznie wraca do Bluetooth, jeśli Wi-Fi zniknie.",
+            "pt": "Alterna o canal do controlo remoto entre Bluetooth (padrão) e Wi-Fi. Toque para usar Wi-Fi quando o toque ou os botões estiverem lentos (por exemplo, quando o Bluetooth está ocupado com uma coluna). O telefone e o projetor têm de estar na mesma rede Wi-Fi; quando ativo, o ícone fica azul e mostra o IP do projetor. A app avisa se não estiver na mesma rede e volta ao Bluetooth automaticamente se o Wi-Fi cair.",
+            "ro": "Comută canalul telecomenzii între Bluetooth (implicit) și Wi-Fi. Atinge-l pentru a folosi Wi-Fi când atingerea sau butoanele sunt lente (de exemplu, când Bluetooth e ocupat cu o boxă). Telefonul și proiectorul trebuie să fie pe aceeași rețea Wi-Fi; când e activ, pictograma devine albastră și afișează IP-ul proiectorului. Aplicația te avertizează dacă nu ești pe aceeași rețea și revine automat la Bluetooth dacă Wi-Fi cade.",
+            "ru": "Переключает канал управления между Bluetooth (по умолчанию) и Wi-Fi. Нажмите, чтобы использовать Wi-Fi, когда касания или кнопки тормозят (например, когда Bluetooth занят колонкой). Телефон и проектор должны быть в одной сети Wi-Fi; при включении значок становится синим и показывает IP проектора. Приложение предупредит, если вы не в одной сети, и автоматически вернётся к Bluetooth при обрыве Wi-Fi.",
+            "sv": "Den växlar fjärrkontrollkanalen mellan Bluetooth (standard) och Wi-Fi. Tryck för att använda Wi-Fi när pekning eller knappar känns tröga (till exempel när Bluetooth är upptaget med en högtalare). Telefon och projektor måste vara på samma Wi-Fi; när aktiv blir ikonen blå och visar projektorns IP. Appen varnar om ni inte är på samma nätverk och växlar automatiskt tillbaka till Bluetooth om Wi-Fi tappas.",
+            "th": "ใช้สลับช่องรีโมตระหว่างบลูทูธ (ค่าเริ่มต้น) กับ Wi-Fi แตะเพื่อใช้ Wi-Fi เมื่อการสัมผัสหรือปุ่มหน่วง (เช่นตอนบลูทูธกำลังยุ่งกับลำโพง) โทรศัพท์และโปรเจกเตอร์ต้องอยู่ Wi-Fi เดียวกัน เมื่อเปิดใช้งานไอคอนจะเป็นสีน้ำเงินและแสดง IP ของโปรเจกเตอร์ แอปจะเตือนหากไม่ได้อยู่เครือข่ายเดียวกัน และจะกลับไปใช้บลูทูธอัตโนมัติเมื่อ Wi-Fi หลุด",
+            "tr": "Uzaktan kumanda kanalını Bluetooth (varsayılan) ile Wi-Fi arasında değiştirir. Dokunma veya düğmeler yavaşladığında (örneğin Bluetooth bir hoparlörle meşgulken) Wi-Fi kullanmak için dokunun. Telefon ve projektör aynı Wi-Fi'de olmalı; etkinken simge maviye döner ve projektörün IP'sini gösterir. Aynı ağda değilseniz uygulama uyarır ve Wi-Fi koparsa otomatik olarak Bluetooth'a döner.",
+            "vi": "Nó chuyển kênh điều khiển từ xa giữa Bluetooth (mặc định) và Wi-Fi. Chạm để dùng Wi-Fi khi chạm hoặc nút bị trễ (ví dụ khi Bluetooth đang bận với loa). Điện thoại và máy chiếu phải cùng một mạng Wi-Fi; khi bật, biểu tượng chuyển xanh và hiển thị IP máy chiếu. Ứng dụng sẽ cảnh báo nếu bạn không cùng mạng, và tự động quay lại Bluetooth nếu Wi-Fi rớt."
           }
         }
       ]
