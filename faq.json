@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "categories": [
     {
       "id": "hdmi",
@@ -6831,6 +6831,66 @@
             "el": "Συνήθως δεν χρειάζεται: εφόσον ο προβολέας είναι ενεργοποιημένος και το Bluetooth του τηλεφώνου ενεργό, η εφαρμογή επανασυνδέεται αυτόματα στον τελευταίο προβολέα μέσα σε λίγα δευτερόλεπτα από το άνοιγμα. Αν παραμένετε στην οθόνη σάρωσης, ο προβολέας μάλλον είναι απενεργοποιημένος/σε αναμονή ή πολύ μακριά — ενεργοποιήστε τον, μείνετε σε απόσταση λίγων μέτρων, περιμένετε λίγο ή πατήστε «Επανασάρωση». Αν εξακολουθεί να μη συνδέεται, απενεργοποιήστε και ενεργοποιήστε ξανά το Bluetooth του τηλεφώνου και ανοίξτε πάλι την εφαρμογή.",
             "hu": "Általában nem kell: amíg a projektor be van kapcsolva és a telefon Bluetooth-ja aktív, az alkalmazás megnyitás után néhány másodpercen belül automatikusan újracsatlakozik a legutóbbi projektorhoz. Ha a keresőképernyőn ragad, a projektor valószínűleg ki van kapcsolva/készenlétben van, vagy túl messze van — kapcsolja be, maradjon néhány méteren belül, várjon egy pillanatot, vagy koppintson az „Újrakeresés” gombra. Ha továbbra sem csatlakozik, kapcsolja ki és be a telefon Bluetooth-ját, majd nyissa meg újra az alkalmazást.",
             "ro": "De obicei nu este nevoie: atâta timp cât proiectorul este pornit și Bluetooth-ul telefonului activat, aplicația se reconectează automat la ultimul proiector în câteva secunde de la deschidere. Dacă rămâneți pe ecranul de scanare, proiectorul este probabil oprit/în standby sau prea departe — porniți-l, rămâneți la câțiva metri, așteptați puțin sau atingeți „Rescanare”. Dacă tot nu se conectează, opriți și reporniți Bluetooth-ul telefonului, apoi redeschideți aplicația."
+          }
+        },
+        {
+          "q": {
+            "en": "How do I change the app language?",
+            "zh": "如何切换 App 语言?",
+            "zh-TW": "如何切換 App 語言?",
+            "ar": "كيف أغيّر لغة التطبيق؟",
+            "cs": "Jak změním jazyk aplikace?",
+            "da": "Hvordan skifter jeg appens sprog?",
+            "de": "Wie ändere ich die App-Sprache?",
+            "el": "Πώς αλλάζω τη γλώσσα της εφαρμογής;",
+            "es": "¿Cómo cambio el idioma de la aplicación?",
+            "fi": "Miten vaihdan sovelluksen kielen?",
+            "fr": "Comment changer la langue de l'application ?",
+            "hi": "मैं ऐप की भाषा कैसे बदलूँ?",
+            "hu": "Hogyan változtathatom meg az alkalmazás nyelvét?",
+            "id": "Bagaimana cara mengganti bahasa aplikasi?",
+            "it": "Come cambio la lingua dell'app?",
+            "ja": "アプリの言語を変更するには?",
+            "ko": "앱 언어는 어떻게 변경하나요?",
+            "ms": "Bagaimana cara menukar bahasa aplikasi?",
+            "nl": "Hoe wijzig ik de taal van de app?",
+            "pl": "Jak zmienić język aplikacji?",
+            "pt": "Como mudo o idioma da aplicação?",
+            "ro": "Cum schimb limba aplicației?",
+            "ru": "Как изменить язык приложения?",
+            "sv": "Hur byter jag språk i appen?",
+            "th": "จะเปลี่ยนภาษาของแอปได้อย่างไร?",
+            "tr": "Uygulamanın dilini nasıl değiştiririm?",
+            "vi": "Làm sao để đổi ngôn ngữ của ứng dụng?"
+          },
+          "a": {
+            "en": "Lumina Go automatically follows your phone's system language: if your phone is set to Thai, the app appears in Thai (30+ languages supported). To set a language for this app only: Android 13 or later — phone Settings → Apps → Lumina Go → Language; iPhone/iPad — Settings → Apps → Lumina Go → Language. If some texts still appear in English, update the app to the latest version; untranslated texts fall back to English.",
+            "zh": "Lumina Go 会自动跟随手机系统语言:手机设为泰语,App 就显示泰语(支持 30 多种语言)。想单独给本 App 设置语言:Android 13 及以上——手机设置→应用→Lumina Go→语言;iPhone/iPad——设置→App→Lumina Go→语言。若部分文案仍显示英文,请将 App 升级到最新版本;尚未翻译的内容会回退为英文。",
+            "zh-TW": "Lumina Go 會自動跟隨手機系統語言:手機設為泰文,App 就會顯示泰文(支援 30 多種語言)。想單獨為本 App 設定語言:Android 13 以上——手機設定→應用程式→Lumina Go→語言;iPhone/iPad——設定→App→Lumina Go→語言。若部分文字仍顯示英文,請將 App 更新到最新版本;尚未翻譯的內容會以英文顯示。",
+            "ar": "يتبع Lumina Go لغة نظام هاتفك تلقائيًا: إذا كان هاتفك مضبوطًا على العربية فسيظهر التطبيق بالعربية (يدعم أكثر من 30 لغة). لضبط لغة لهذا التطبيق فقط: على أندرويد 13 وما بعده — الإعدادات ← التطبيقات ← Lumina Go ← اللغة؛ وعلى iPhone/iPad — الإعدادات ← التطبيقات ← Lumina Go ← اللغة. إذا ظلّت بعض النصوص بالإنجليزية فحدِّث التطبيق إلى أحدث إصدار؛ النصوص غير المترجمة تظهر بالإنجليزية.",
+            "cs": "Lumina Go automaticky přebírá jazyk systému telefonu: pokud je telefon nastaven na češtinu, aplikace se zobrazí česky (podporuje více než 30 jazyků). Chcete-li nastavit jazyk pouze pro tuto aplikaci: Android 13 a novější — Nastavení → Aplikace → Lumina Go → Jazyk; iPhone/iPad — Nastavení → Aplikace → Lumina Go → Jazyk. Pokud se některé texty stále zobrazují anglicky, aktualizujte aplikaci na nejnovější verzi; nepřeložené texty se zobrazují anglicky.",
+            "da": "Lumina Go følger automatisk telefonens systemsprog: er telefonen sat til dansk, vises appen på dansk (over 30 sprog understøttes). Vil du vælge et sprog kun for denne app: Android 13+ — Indstillinger → Apps → Lumina Go → Sprog; iPhone/iPad — Indstillinger → Apps → Lumina Go → Sprog. Vises nogle tekster stadig på engelsk, så opdater appen til nyeste version; uoversatte tekster vises på engelsk.",
+            "de": "Lumina Go folgt automatisch der Systemsprache deines Telefons: Ist das Telefon auf Deutsch eingestellt, erscheint die App auf Deutsch (über 30 Sprachen werden unterstützt). Nur für diese App eine Sprache festlegen: Android 13+ — Einstellungen → Apps → Lumina Go → Sprache; iPhone/iPad — Einstellungen → Apps → Lumina Go → Sprache. Werden einzelne Texte noch auf Englisch angezeigt, aktualisiere die App auf die neueste Version; noch nicht übersetzte Texte erscheinen auf Englisch.",
+            "el": "Το Lumina Go ακολουθεί αυτόματα τη γλώσσα συστήματος του τηλεφώνου: αν το τηλέφωνο είναι στα Ελληνικά, η εφαρμογή εμφανίζεται στα Ελληνικά (υποστηρίζονται πάνω από 30 γλώσσες). Για γλώσσα μόνο σε αυτήν την εφαρμογή: Android 13+ — Ρυθμίσεις → Εφαρμογές → Lumina Go → Γλώσσα· iPhone/iPad — Ρυθμίσεις → Εφαρμογές → Lumina Go → Γλώσσα. Αν κάποια κείμενα εμφανίζονται ακόμη στα Αγγλικά, ενημερώστε την εφαρμογή στην τελευταία έκδοση· τα αμετάφραστα κείμενα εμφανίζονται στα Αγγλικά.",
+            "es": "Lumina Go sigue automáticamente el idioma del sistema del teléfono: si el teléfono está en español, la app se muestra en español (más de 30 idiomas admitidos). Para elegir un idioma solo para esta app: Android 13 o superior — Ajustes → Aplicaciones → Lumina Go → Idioma; iPhone/iPad — Ajustes → Apps → Lumina Go → Idioma. Si algunos textos siguen en inglés, actualiza la app a la última versión; lo no traducido se muestra en inglés.",
+            "fi": "Lumina Go noudattaa automaattisesti puhelimen järjestelmäkieltä: jos puhelin on suomeksi, sovellus näkyy suomeksi (tuettuna yli 30 kieltä). Kielen valinta vain tälle sovellukselle: Android 13+ — Asetukset → Sovellukset → Lumina Go → Kieli; iPhone/iPad — Asetukset → Apit → Lumina Go → Kieli. Jos osa teksteistä näkyy yhä englanniksi, päivitä sovellus uusimpaan versioon; kääntämättömät tekstit näkyvät englanniksi.",
+            "fr": "Lumina Go suit automatiquement la langue du système du téléphone : si le téléphone est en français, l'application s'affiche en français (plus de 30 langues prises en charge). Pour définir une langue uniquement pour cette application : Android 13+ — Réglages → Applications → Lumina Go → Langue ; iPhone/iPad — Réglages → Apps → Lumina Go → Langue. Si certains textes restent en anglais, mettez l'application à jour vers la dernière version ; les textes non traduits s'affichent en anglais.",
+            "hi": "Lumina Go अपने आप फ़ोन की सिस्टम भाषा अपनाता है: फ़ोन हिंदी में हो तो ऐप हिंदी में दिखेगा (30 से अधिक भाषाएँ समर्थित)। केवल इस ऐप के लिए भाषा चुनने हेतु: Android 13+ — सेटिंग्स → ऐप्स → Lumina Go → भाषा; iPhone/iPad — सेटिंग्स → ऐप्स → Lumina Go → भाषा। यदि कुछ टेक्स्ट अब भी अंग्रेज़ी में दिखें तो ऐप को नवीनतम संस्करण में अपडेट करें; बिना अनुवाद वाले टेक्स्ट अंग्रेज़ी में दिखते हैं।",
+            "hu": "A Lumina Go automatikusan a telefon rendszernyelvét követi: ha a telefon magyarul van, az alkalmazás magyarul jelenik meg (több mint 30 nyelv támogatott). Ha csak ennek az alkalmazásnak szeretne nyelvet beállítani: Android 13+ — Beállítások → Alkalmazások → Lumina Go → Nyelv; iPhone/iPad — Beállítások → Appok → Lumina Go → Nyelv. Ha egyes szövegek továbbra is angolul jelennek meg, frissítse az alkalmazást a legújabb verzióra; a le nem fordított szövegek angolul jelennek meg.",
+            "id": "Lumina Go otomatis mengikuti bahasa sistem ponsel: jika ponsel disetel ke bahasa Indonesia, aplikasi tampil dalam bahasa Indonesia (mendukung 30+ bahasa). Untuk mengatur bahasa khusus aplikasi ini: Android 13+ — Setelan → Aplikasi → Lumina Go → Bahasa; iPhone/iPad — Pengaturan → Aplikasi → Lumina Go → Bahasa. Jika sebagian teks masih berbahasa Inggris, perbarui aplikasi ke versi terbaru; teks yang belum diterjemahkan ditampilkan dalam bahasa Inggris.",
+            "it": "Lumina Go segue automaticamente la lingua di sistema del telefono: se il telefono è in italiano, l'app appare in italiano (oltre 30 lingue supportate). Per impostare una lingua solo per questa app: Android 13+ — Impostazioni → App → Lumina Go → Lingua; iPhone/iPad — Impostazioni → App → Lumina Go → Lingua. Se alcuni testi restano in inglese, aggiorna l'app all'ultima versione; i testi non tradotti vengono mostrati in inglese.",
+            "ja": "Lumina Go はスマートフォンのシステム言語に自動的に従います。端末が日本語なら、アプリも日本語で表示されます(30以上の言語に対応)。このアプリだけ言語を変えたい場合:Android 13 以降 — 設定 → アプリ → Lumina Go → 言語、iPhone/iPad — 設定 → アプリ → Lumina Go → 言語。一部が英語のままの場合は、アプリを最新版に更新してください。未翻訳の文言は英語で表示されます。",
+            "ko": "Lumina Go는 휴대폰 시스템 언어를 자동으로 따릅니다. 휴대폰이 한국어로 설정되어 있으면 앱도 한국어로 표시됩니다(30개 이상 언어 지원). 이 앱만 다른 언어로 사용하려면: Android 13 이상 — 설정 → 앱 → Lumina Go → 언어, iPhone/iPad — 설정 → 앱 → Lumina Go → 언어. 일부 문구가 여전히 영어로 보이면 앱을 최신 버전으로 업데이트하세요. 번역되지 않은 문구는 영어로 표시됩니다.",
+            "ms": "Lumina Go mengikut bahasa sistem telefon secara automatik: jika telefon ditetapkan kepada Bahasa Melayu, aplikasi dipaparkan dalam Bahasa Melayu (menyokong 30+ bahasa). Untuk menetapkan bahasa bagi aplikasi ini sahaja: Android 13+ — Tetapan → Aplikasi → Lumina Go → Bahasa; iPhone/iPad — Tetapan → Aplikasi → Lumina Go → Bahasa. Jika sesetengah teks masih dalam bahasa Inggeris, kemas kini aplikasi ke versi terkini; teks yang belum diterjemahkan dipaparkan dalam bahasa Inggeris.",
+            "nl": "Lumina Go volgt automatisch de systeemtaal van je telefoon: staat je telefoon op Nederlands, dan verschijnt de app in het Nederlands (meer dan 30 talen ondersteund). Een taal alleen voor deze app instellen: Android 13+ — Instellingen → Apps → Lumina Go → Taal; iPhone/iPad — Instellingen → Apps → Lumina Go → Taal. Zie je nog Engelse teksten, werk de app dan bij naar de nieuwste versie; onvertaalde teksten worden in het Engels getoond.",
+            "pl": "Lumina Go automatycznie przejmuje język systemu telefonu: jeśli telefon jest ustawiony na polski, aplikacja wyświetla się po polsku (obsługiwanych jest ponad 30 języków). Aby ustawić język tylko dla tej aplikacji: Android 13+ — Ustawienia → Aplikacje → Lumina Go → Język; iPhone/iPad — Ustawienia → Aplikacje → Lumina Go → Język. Jeśli część tekstów nadal jest po angielsku, zaktualizuj aplikację do najnowszej wersji; nieprzetłumaczone teksty wyświetlają się po angielsku.",
+            "pt": "O Lumina Go segue automaticamente o idioma do sistema do telemóvel: se o telemóvel estiver em português, a app aparece em português (mais de 30 idiomas suportados). Para definir um idioma só para esta app: Android 13+ — Definições → Aplicações → Lumina Go → Idioma; iPhone/iPad — Definições → Apps → Lumina Go → Idioma. Se alguns textos continuarem em inglês, atualize a app para a versão mais recente; os textos não traduzidos aparecem em inglês.",
+            "ro": "Lumina Go urmează automat limba de sistem a telefonului: dacă telefonul este setat pe română, aplicația apare în română (peste 30 de limbi acceptate). Pentru a seta o limbă doar pentru această aplicație: Android 13+ — Setări → Aplicații → Lumina Go → Limbă; iPhone/iPad — Setări → Aplicații → Lumina Go → Limbă. Dacă unele texte apar încă în engleză, actualizați aplicația la cea mai recentă versiune; textele netraduse apar în engleză.",
+            "ru": "Lumina Go автоматически использует язык системы телефона: если телефон настроен на русский, приложение отображается на русском (поддерживается более 30 языков). Чтобы задать язык только для этого приложения: Android 13+ — Настройки → Приложения → Lumina Go → Язык; iPhone/iPad — Настройки → Приложения → Lumina Go → Язык. Если часть текста всё ещё на английском, обновите приложение до последней версии; непереведённые тексты отображаются на английском.",
+            "sv": "Lumina Go följer automatiskt telefonens systemspråk: är telefonen inställd på svenska visas appen på svenska (över 30 språk stöds). Vill du välja språk enbart för denna app: Android 13+ — Inställningar → Appar → Lumina Go → Språk; iPhone/iPad — Inställningar → Appar → Lumina Go → Språk. Visas vissa texter fortfarande på engelska, uppdatera appen till senaste versionen; oöversatta texter visas på engelska.",
+            "th": "Lumina Go จะใช้ภาษาตามระบบของโทรศัพท์โดยอัตโนมัติ: หากโทรศัพท์ตั้งเป็นภาษาไทย แอปจะแสดงเป็นภาษาไทย (รองรับมากกว่า 30 ภาษา) หากต้องการตั้งภาษาเฉพาะแอปนี้: Android 13 ขึ้นไป — การตั้งค่า → แอป → Lumina Go → ภาษา; iPhone/iPad — การตั้งค่า → แอป → Lumina Go → ภาษา หากข้อความบางส่วนยังแสดงเป็นภาษาอังกฤษ โปรดอัปเดตแอปเป็นเวอร์ชันล่าสุด ข้อความที่ยังไม่ได้แปลจะแสดงเป็นภาษาอังกฤษ",
+            "tr": "Lumina Go telefonun sistem dilini otomatik olarak izler: telefon Türkçe ayarlıysa uygulama Türkçe görünür (30'dan fazla dil desteklenir). Yalnızca bu uygulama için dil seçmek isterseniz: Android 13+ — Ayarlar → Uygulamalar → Lumina Go → Dil; iPhone/iPad — Ayarlar → Uygulamalar → Lumina Go → Dil. Bazı metinler hâlâ İngilizce görünüyorsa uygulamayı en son sürüme güncelleyin; çevrilmemiş metinler İngilizce gösterilir.",
+            "vi": "Lumina Go tự động dùng ngôn ngữ hệ thống của điện thoại: nếu điện thoại đặt tiếng Việt, ứng dụng sẽ hiển thị tiếng Việt (hỗ trợ hơn 30 ngôn ngữ). Để đặt ngôn ngữ riêng cho ứng dụng này: Android 13 trở lên — Cài đặt → Ứng dụng → Lumina Go → Ngôn ngữ; iPhone/iPad — Cài đặt → Ứng dụng → Lumina Go → Ngôn ngữ. Nếu một số nội dung vẫn hiển thị tiếng Anh, hãy cập nhật ứng dụng lên phiên bản mới nhất; nội dung chưa dịch sẽ hiển thị bằng tiếng Anh."
           }
         }
       ]
