@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "partner_models",
+      "title": {
+        "en": "Partner Device Models (AI-only)",
+        "zh": "合作机型(仅 AI 检索)"
+      },
+      "items": [
+        {
+          "q": {
+            "en": "Is the Zebronics Pixaplay projector (ZEB-PIXA PLAY 35 / 73) supported by this app?",
+            "hi": "क्या Zebronics Pixaplay प्रोजेक्टर (ZEB-PIXA PLAY 35 / 73) इस ऐप के साथ काम करता है?",
+            "zh": "Zebronics Pixaplay 投影仪(ZEB-PIXA PLAY 35 / 73)支持这个 App 吗?"
+          },
+          "a": {
+            "en": "Yes. Zebronics Pixaplay smart projectors (including Pixaplay 35 and Pixaplay 73) work with this app. To connect:\n1. Turn on the projector and wait for it to finish starting up.\n2. On the phone, turn on Bluetooth and allow the app's Bluetooth / Nearby devices permission.\n3. Keep the phone within a few meters of the projector, open the app and wait for the scan, then tap your projector in the device list to connect.\nOnce connected you can use the remote, touchpad, keyboard, voice control and air mouse. For mirroring-related features, also connect the phone and the projector to the same Wi-Fi network.",
+            "hi": "हाँ। Zebronics Pixaplay स्मार्ट प्रोजेक्टर (Pixaplay 35 और Pixaplay 73 सहित) इस ऐप के साथ काम करते हैं। कनेक्ट करने के लिए:\n1. प्रोजेक्टर चालू करें और उसके पूरी तरह स्टार्ट होने का इंतज़ार करें।\n2. फ़ोन में Bluetooth चालू करें और ऐप को Bluetooth / Nearby devices की अनुमति दें।\n3. फ़ोन को प्रोजेक्टर के पास (कुछ मीटर के भीतर) रखें, ऐप खोलें, स्कैन पूरा होने दें और डिवाइस सूची में अपने प्रोजेक्टर पर टैप करके कनेक्ट करें।\nकनेक्ट होने के बाद आप रिमोट, टचपैड, कीबोर्ड, वॉइस कंट्रोल और एयर माउस का उपयोग कर सकते हैं। स्क्रीन मिररिंग से जुड़े फ़ीचर के लिए फ़ोन और प्रोजेक्टर को एक ही Wi-Fi नेटवर्क से जोड़ें।",
+            "zh": "支持。Zebronics Pixaplay 智能投影仪(含 Pixaplay 35 与 Pixaplay 73)可与本 App 配合使用。连接方法:\n1. 打开投影仪电源并等待启动完成。\n2. 打开手机蓝牙,并允许 App 的蓝牙/附近设备权限。\n3. 手机保持在投影仪几米范围内,打开 App 等待扫描,在设备列表中点击你的投影仪即可连接。\n连接后可使用遥控、触摸板、键盘、语音控制和空中鼠标。投屏相关功能还需要手机与投影仪连接同一个 Wi-Fi。"
+          }
+        },
+        {
+          "q": {
+            "en": "My phone cannot find or connect to my Zebronics Pixaplay projector. What should I do?",
+            "hi": "मेरा फ़ोन मेरे Zebronics Pixaplay प्रोजेक्टर को ढूँढ या कनेक्ट नहीं कर पा रहा है। क्या करूँ?",
+            "zh": "手机搜不到或连不上 Zebronics Pixaplay 投影仪怎么办?"
+          },
+          "a": {
+            "en": "Work through these steps:\n1. Make sure the projector is powered on and has finished booting to the home screen.\n2. Turn the phone's Bluetooth off and on again, and confirm the app has the Bluetooth / Nearby devices permission.\n3. Keep the phone within a few meters of the projector and rescan in the app.\n4. If another phone is already connected to the projector, disconnect it first — the projector accepts one remote connection at a time.\n5. Fully close and reopen the app, then scan again.\n6. Restart the projector and try again.\nIf it still fails after all steps, contact the seller or Zebronics customer support to check the projector.",
+            "hi": "इन चरणों को आज़माएँ:\n1. सुनिश्चित करें कि प्रोजेक्टर चालू है और होम स्क्रीन तक पूरी तरह बूट हो चुका है।\n2. फ़ोन का Bluetooth बंद करके फिर चालू करें, और पक्का करें कि ऐप को Bluetooth / Nearby devices की अनुमति मिली है।\n3. फ़ोन को प्रोजेक्टर के कुछ मीटर के भीतर रखें और ऐप में दोबारा स्कैन करें।\n4. अगर कोई दूसरा फ़ोन पहले से प्रोजेक्टर से जुड़ा है तो पहले उसे डिस्कनेक्ट करें — प्रोजेक्टर एक समय में एक ही रिमोट कनेक्शन स्वीकार करता है।\n5. ऐप को पूरी तरह बंद करके दोबारा खोलें और फिर स्कैन करें।\n6. प्रोजेक्टर को रीस्टार्ट करके फिर कोशिश करें।\nसभी चरणों के बाद भी समस्या बनी रहे तो विक्रेता या Zebronics कस्टमर सपोर्ट से प्रोजेक्टर की जाँच करवाएँ।",
+            "zh": "按以下步骤排查:\n1. 确认投影仪已开机并完全启动进入主界面。\n2. 关闭手机蓝牙再重新打开,并确认已授予 App 蓝牙/附近设备权限。\n3. 手机保持在投影仪几米范围内,在 App 里重新扫描。\n4. 若已有另一部手机连接投影仪,请先断开——投影仪同一时间只接受一个遥控连接。\n5. 彻底关闭并重新打开 App,再次扫描。\n6. 重启投影仪后重试。\n以上都无效时,请联系卖家或 Zebronics 客服检查投影仪。"
+          }
+        },
+        {
+          "q": {
+            "en": "Where can I get warranty or after-sales support for my Zebronics Pixaplay projector?",
+            "hi": "मेरे Zebronics Pixaplay प्रोजेक्टर की वारंटी या आफ़्टर-सेल्स सपोर्ट कहाँ मिलेगी?",
+            "zh": "Zebronics Pixaplay 投影仪的保修/售后去哪里找?"
+          },
+          "a": {
+            "en": "Zebronics Pixaplay projectors are sold and serviced by Zebronics. For warranty, repair or hardware problems (power, lamp, focus, ports), contact Zebronics customer support through the official Zebronics website or the seller you purchased from. For questions about this remote-control app itself, ask here or send feedback from the app.",
+            "hi": "Zebronics Pixaplay प्रोजेक्टर की बिक्री और सर्विस Zebronics करता है। वारंटी, मरम्मत या हार्डवेयर समस्याओं (पावर, लैंप, फ़ोकस, पोर्ट) के लिए Zebronics की आधिकारिक वेबसाइट या अपने विक्रेता के ज़रिए Zebronics कस्टमर सपोर्ट से संपर्क करें। इस रिमोट-कंट्रोल ऐप से जुड़े सवाल यहाँ पूछें या ऐप के भीतर से फ़ीडबैक भेजें।",
+            "zh": "Zebronics Pixaplay 投影仪由 Zebronics 销售并提供售后。保修、维修或硬件问题(电源、光源、对焦、接口)请通过 Zebronics 官网或购买渠道联系 Zebronics 客服。关于本遥控 App 本身的问题,可直接在这里询问或通过 App 内反馈联系我们。"
+          }
+        }
+      ]
+    }
+  ]
+}
