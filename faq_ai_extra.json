@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {
       "id": "partner_models",
@@ -42,6 +42,18 @@
             "en": "Zebronics Pixaplay projectors are sold and serviced by Zebronics. For warranty, repair or hardware problems (power, lamp, focus, ports), contact Zebronics customer support through the official Zebronics website or the seller you purchased from. For questions about this remote-control app itself, ask here or send feedback from the app.",
             "hi": "Zebronics Pixaplay प्रोजेक्टर की बिक्री और सर्विस Zebronics करता है। वारंटी, मरम्मत या हार्डवेयर समस्याओं (पावर, लैंप, फ़ोकस, पोर्ट) के लिए Zebronics की आधिकारिक वेबसाइट या अपने विक्रेता के ज़रिए Zebronics कस्टमर सपोर्ट से संपर्क करें। इस रिमोट-कंट्रोल ऐप से जुड़े सवाल यहाँ पूछें या ऐप के भीतर से फ़ीडबैक भेजें।",
             "zh": "Zebronics Pixaplay 投影仪由 Zebronics 销售并提供售后。保修、维修或硬件问题(电源、光源、对焦、接口)请通过 Zebronics 官网或购买渠道联系 Zebronics 客服。关于本遥控 App 本身的问题,可直接在这里询问或通过 App 内反馈联系我们。"
+          }
+        },
+        {
+          "q": {
+            "en": "Where can I get service, repair or warranty for my projector brand (service center near me)?",
+            "hi": "मेरे प्रोजेक्टर ब्रांड की सर्विस, मरम्मत या वारंटी कहाँ मिलेगी (मेरे पास का सर्विस सेंटर)?",
+            "zh": "我的投影仪(第三方品牌)去哪里保修/维修/找服务网点?"
+          },
+          "a": {
+            "en": "Hardware service and warranty for a projector are provided by the projector's own brand, not by this app. To find a service center in your city or arrange a repair, contact that brand's official customer support (their website usually lists service centers and toll-free numbers) or the seller you purchased from, and keep your invoice for warranty claims. For questions about this remote-control app itself, ask here or use the in-app feedback.",
+            "hi": "प्रोजेक्टर की हार्डवेयर सर्विस और वारंटी उस प्रोजेक्टर के अपने ब्रांड की ज़िम्मेदारी है, इस ऐप की नहीं। अपने शहर में सर्विस सेंटर खोजने या मरम्मत के लिए उस ब्रांड के आधिकारिक कस्टमर सपोर्ट (ब्रांड की वेबसाइट पर आमतौर पर सर्विस सेंटर और टोल-फ़्री नंबर मिलते हैं) या अपने विक्रेता से संपर्क करें, और वारंटी के लिए बिल संभाल कर रखें। इस रिमोट-कंट्रोल ऐप से जुड़े सवाल यहाँ पूछें या ऐप के भीतर से फ़ीडबैक भेजें।",
+            "zh": "投影仪的硬件维修与保修由投影仪自己的品牌负责,而不是本 App。查找所在城市的服务网点或安排维修,请联系该品牌的官方客服(品牌官网通常有服务网点和客服电话)或购买渠道,并保留发票用于保修。关于本遥控 App 本身的问题,可直接在这里询问或通过 App 内反馈联系我们。"
           }
         }
       ]
